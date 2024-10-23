@@ -1,6 +1,8 @@
 # EightGravexParties(EGP)
 Gra komputerowa o tematyce Fun Game FnaF. Jest to nowa gra, podobna do swoich poprzedników. Gra jest jeszcze w trakcie tworzenia i będzie pierwszą oficjalnie wydaną grą od InGraw 24 Co.
 
+Więcej informacji na serverze "InGraw Developer Server". Link do servera: https://discord.gg/6TswwjaYKn
+
 
 # UWAGA!
 Gra jest stworzona przez InGraw 42 Co. Właścicielem produkcji jest Mateusz Lademann który nie rzyczy sobie kopiowania jego działalności.
