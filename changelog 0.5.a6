@@ -1,0 +1,25 @@
+WERSJA 0.5.a6 DO POBRANIA ZA DARMO NA STRONIE:https://drive.google.com/file/d/1q5NYiMJ-rpnfAt0vgncAgAcdlDBCCCcm/view?usp=sharing
+
+Zmiany wprowadzone do gry EGP Alpha Edition w wersji 0.5.a6
+Dodaliśmy:
+model monitora,
+model monitora (kamery, siatka statyczna),
+power (zasilanie, licznik pozostałego prądu),
+lucky (nowy przeciwnik, można włączyć w debug menu),
+GUI (graficzny interfejs użytkownika do debug menu),
+loading(ekran ładowania).
+
+Zmieniliśmy:
+prędkość drzwi,
+prędkość Schopkeepera (w debug menu),
+system jumpscarów (licznik, ID jumpscara np. Gravex, Lucky itp., rozprzestrzenianie się eventów).
+
+Naprawiliśmy:
+double door glitch,
+działanie światła (rozjaśniliśmy),
+ustawienia kamer,
+ustawienia głównej kamery (player),
+ustawienia atmosfery sceny głównej,
+poprawa widoczności obrazu (darcia, rozjaśnienia itp.),
+ustawienia graficzne (poprawiliśmy optymalność gry),
+błąd "Unknown error 284".
