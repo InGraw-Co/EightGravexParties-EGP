@@ -1,0 +1,37 @@
+Uwaga!
+WERSJA 0.43 DO POBRANIA ZA DARMO NA STRONIE:
+https://drive.google.com/file/d/10PdIh3KAs05u7yOOhtlyE0GB3eUTV42y/view?usp=sharing
+jeżeli na podanej stronie nic nie ma proszę to zgłośić na serverze discord w sekcji support!
+
+Zmiany wprowadzone do gry w wersji 0.43:
+
+Dodaliśmy:
+Animację Static Do Kamery
+Pojawianie się Fazcoinów
+Licznik Fazcoinów
+Światło
+Drzwi
+Testową mapę
+Rozszerzone Menu Debugujące
+Nazwy kamer
+Zapis Gry
+Dźwięki Kamery
+Dźwięki maski
+Dźwięki Gravexa
+Dźwięk Menu
+Soundtrack do gry
+
+Zmieniliśmy:
+Poziom Gravexa (inteligencja, zdrowie, noce, godzina)
+Kamery (pozycje, oświetlenie, filtry)
+Maskę (otwieranie, zamykanie, rozglądanie, inne błędy)
+Jumpscare
+Odczyt danych z zmiennych globalnych
+Zmienne globalne na InGrawClass
+
+Naprawiliśmy:
+Błąd nieskończonej maski
+Błąd nieskończonej kamery
+Błąd niepoprawnego obracania kamery
+Błąd zniekształcania obrazu przy obracaniu kamery
+Błąd "Cast to InGrawClass" niepowodzenie
