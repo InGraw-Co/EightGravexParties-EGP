@@ -4,6 +4,9 @@ Gra komputerowa o tematyce Fun Game FnaF. Jest to nowa gra, podobna do swoich po
 Więcej informacji na serverze "InGraw Developer Server". Link do servera: https://discord.gg/6TswwjaYKn
 
 # Link Do pobrania:
+0.0.b5-patch Beta Stable No bugs:
+https://github.com/GrawikInGraw/EightGravexParties-EGP-/releases/tag/0.8.b5
+---
 0.8.b4 Beta Pre-Relase ( More bugs ):
 https://drive.google.com/file/d/17l_TK-Z7wAZOyB8FgXk2doYHTMiC60m6/view?usp=sharing
 ---
