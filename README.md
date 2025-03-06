@@ -1,5 +1,5 @@
 # EightGravexParties(EGP)
-Gra komputerowa o tematyce Fun Game FnaF. Jest to nowa gra, podobna do swoich poprzedników. Gra jest jeszcze w trakcie tworzenia i będzie pierwszą oficjalnie wydaną grą od InGraw 24 Co.
+Gra komputerowo-mobilna. Jest to nowa gra, podobna do swoich poprzedników. Gra jest jeszcze w trakcie tworzenia i będzie pierwszą oficjalnie wydaną grą od InGraw Co.
 
 Więcej informacji na serverze "InGraw Developer Server". Link do servera: https://discord.gg/6TswwjaYKn
 
@@ -25,5 +25,14 @@ https://github.com/GrawikInGraw/EightGravexParties-EGP-/releases/tag/0.0.8
 
 
 # UWAGA!
-Gra jest stworzona przez InGraw 24 Co. Właścicielem produkcji jest Mateusz Lademann który nie rzyczy sobie kopiowania jego działalności.
-Chciałbym poinformować, że moja gra oparta na tematyce Five Nights at Freddy's (FNAF) jest niezależnym projektem stworzonym przeze mnie i nie jest sponsorowana ani powiązana z oficjalnymi produktami związanymi z FNAF. Scott Cawthon, twórca FNAF, nie był świadomy tego projektu przed jego publikacją, a moja gra nie jest z nim związana. Jest to moja osobista interpretacja tego uniwersum, powstała wyłącznie w celach rozrywkowych. Dziękuję za wsparcie i mam nadzieję, że spodoba Wam się moja wersja!
+Gra została stworzona przez InGraw 24 Co. Właścicielem produkcji jest Mateusz Lademann, który nie życzy sobie kopiowania jego działalności.
+
+Cały kod gry został napisany w 100% przeze mnie w silniku Unreal Engine 5.4.
+Materiały zostały stworzone w Adobe Substance Painter lub bezpośrednio w silniku.
+Modele 3D zostały zaprojektowane od zera w Blenderze.
+
+⚠ Uwaga! Dwa modele zostały wygenerowane przez sztuczną inteligencję, ale zostały znacząco zmodyfikowane. Służyły one głównie jako wzór, a nie gotowe elementy w grze.
+
+Wszystkie materiały, tekstury, modele i inne zasoby pochodzące z zewnętrznych źródeł zostały pobrane legalnie i posiadają licencje pozwalające na komercyjne wykorzystanie.
+
+Dziękuję za wsparcie i mam nadzieję, że spodoba Wam się moja gra!
