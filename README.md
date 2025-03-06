@@ -25,14 +25,13 @@ https://github.com/GrawikInGraw/EightGravexParties-EGP-/releases/tag/0.0.8
 
 
 # UWAGA!
-Gra została stworzona przez InGraw 24 Co. Właścicielem produkcji jest Mateusz Lademann, który nie życzy sobie kopiowania jego działalności.
+Gra została stworzona przez InGraw 24 Co., a jej właścicielem oraz głównym twórcą jest Mateusz Lademann. Wszelkie prawa do tej produkcji są zastrzeżone, a kopiowanie, dystrybucja oraz modyfikacja gry bez zgody autora są zabronione.
 
-Cały kod gry został napisany w 100% przeze mnie w silniku Unreal Engine 5.4.
-Materiały zostały stworzone w Adobe Substance Painter lub bezpośrednio w silniku.
-Modele 3D zostały zaprojektowane od zera w Blenderze.
+Cały kod źródłowy gry został w 100% opracowany autorsko w silniku Unreal Engine 5.4.
+Wszystkie materiały wizualne zostały stworzone przy użyciu Adobe Substance Painter lub bezpośrednio w silniku. Modele 3D zostały zaprojektowane od podstaw w Blenderze.
 
-⚠ Uwaga! Dwa modele zostały wygenerowane przez sztuczną inteligencję, ale zostały znacząco zmodyfikowane. Służyły one głównie jako wzór, a nie gotowe elementy w grze.
+Należy zaznaczyć, że dwa modele zostały początkowo wygenerowane przy użyciu sztucznej inteligencji, jednak poddano je znaczącym modyfikacjom, w wyniku których stanowią jedynie inspirację dla ostatecznych wersji w grze.
 
-Wszystkie materiały, tekstury, modele i inne zasoby pochodzące z zewnętrznych źródeł zostały pobrane legalnie i posiadają licencje pozwalające na komercyjne wykorzystanie.
+Wszelkie zasoby pochodzące z zewnętrznych źródeł (materiały, tekstury, modele, dźwięki itp.) zostały pozyskane zgodnie z obowiązującymi licencjami, które dopuszczają ich komercyjne wykorzystanie.
 
-Dziękuję za wsparcie i mam nadzieję, że spodoba Wam się moja gra!
+Dziękujemy za zainteresowanie naszą produkcją i liczymy na pozytywne wrażenia z rozgrywki.
