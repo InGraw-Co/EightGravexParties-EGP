@@ -1,8 +1,6 @@
 # EightGravexParties(EGP)
 Gra komputerowo-mobilna. Jest to nowa gra, podobna do swoich poprzedników. Gra jest jeszcze w trakcie tworzenia i będzie pierwszą oficjalnie wydaną grą od InGraw Co.
 
-Więcej informacji na serverze "InGraw Developer Server". Link do servera: https://discord.gg/6TswwjaYKn
-
 # Link Do pobrania:
 0.8.b5-patch Beta Stable No bugs:
 https://github.com/GrawikInGraw/EightGravexParties-EGP-/releases/tag/0.8.b5
